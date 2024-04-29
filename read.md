@@ -4,14 +4,14 @@ Rempli chaque variable du . env!
 
 Il s’agit d’un bot personnel/publique, ce qui signifie que tu est le seul bon pour le propriétaire d’utiliser. TOi (le propriétaire) tu peut essentiellement gérer les fichiers de ton ordinateur à l’aide de cela!
 
-Si tu à besoin d’aide pour configurer cela, rejoins nous sur: [https://discord.gg/j6Zu472eXH](https://discord.gg/HtmSbTZ79q)
+Si tu à besoin d’aide pour configurer cela, rejoins nous sur: [https://discord.gg/HtmSbTZ79q](https://discord.gg/HtmSbTZ79q)
 
 Pour le fichier .env, c'est tout simple
 
 Vous crée un fichier .env et vous copier coller ceci
 
-token=
-clientId=
-user=
-mongodb=
-ownerBot=
+- token=
+- clientId=
+- user=
+- mongodb=
+- ownerBot=
